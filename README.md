@@ -1,3 +1,3 @@
-- 👋 Oii! Meu nome é Vitória, tenho 15 anos e sou estudante de DS do 2º ano no IFSP.
-- 🌱 Atualmente, estou iniciando o conhecimento na Análise em Desenvolvimento de Sistemas, incluindo HTML, CSS, Phyton e C.
+- 👋 Oii! Meu nome é Vitória, tenho 16 anos e sou estudante de DS do 2º ano no IFSP.
+- 🌱 Atualmente, estou iniciando o conhecimento na Análise em Desenvolvimento de Sistemas, incluindo HTML, CSS, Phyton, C, Javascript e SQL.
 - 📫 Para entrar em contato, envie um e-mail para vitoriapxaviera@gmail.com
