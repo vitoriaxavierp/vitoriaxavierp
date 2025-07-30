@@ -1,6 +1,7 @@
 ## Vitória Xavier 🌸
 
-OIII, me chamo Vitória Xavier e tenho 16 anos. Estudo no Instituto Federal de São Paulo - Campus São Paulo e sou apaixonada em aprender. Atualmente, estou cursando Desenvolvimento de Sistemas no segundo ano. Além da programação, também desenvolvo projetos relacionados à design gráfico e para redes sociais. 
+Hiii! My name is Vitória and I'm 16 years old. I study at the Federal Institute of São Paulo – São Paulo Campus, and I'm passionate about learning. I'm currently in my second year of the Systems Development program. In addition to programming, I also work on projects related to graphic design and social media.
+
 
 
 <div>
@@ -13,7 +14,7 @@ OIII, me chamo Vitória Xavier e tenho 16 anos. Estudo no Instituto Federal de S
 
 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -84,13 +85,13 @@ OIII, me chamo Vitória Xavier e tenho 16 anos. Estudo no Instituto Federal de S
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=vitoriaxavierp&show_icons=true&theme=rose&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=vitoriaxavierp&show_icons=true&theme=rose&include_all_commits=true&locale=en-us" 
   />
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaxavierp&theme=rose&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaxavierp&theme=rose&layout=compact&custom_title=Languages%20and%20Technologies&langs_count=9"
   />
   
 
