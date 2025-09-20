@@ -1,6 +1,7 @@
 ## Vitória Xavier 🌸
-
-Hiii! My name is Vitória and I'm 16 years old. I study at the Federal Institute of São Paulo – São Paulo Campus, and I'm passionate about learning. I'm currently in my second year of the Systems Development program. In addition to programming, I also work on projects related to graphic design and social media.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8DA1&size=25&width=1000&lines=Hello!;Welcome+:%29)](https://git.io/typing-svg) 
+<br>
+My name is Vitória and I'm 16 years old. I study at the Federal Institute of São Paulo – São Paulo Campus, and I'm passionate about learning. I'm currently in my second year of the Systems Development program. In addition to programming, I also work on projects related to graphic design and social media.
 
 
 
@@ -99,3 +100,5 @@ Hiii! My name is Vitória and I'm 16 years old. I study at the Federal Institute
 
    <a href="https://github.com/vitoriaxavierp"><img src="https://private-user-images.githubusercontent.com/74038190/240903780-02d5a390-b263-43a4-981c-fbdc18c8b902.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAxMzQzMjgsIm5iZiI6MTc1MDEzNDAyOCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDM3ODAtMDJkNWEzOTAtYjI2My00M2E0LTk4MWMtZmJkYzE4YzhiOTAyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE3VDA0MjAyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVhZmY3YWIzZWFjMjExMDRkM2NhODY5MWY1MGQ1MjUyNWQ0NzYwYjEwMTBhNGM2YWMyMDNkZDE1OTM2NGI2ODgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.5v75qzM21qNxlZSoH5yaGQs8KVCYLhR1iR9ctBPkZgs" width="130" height="120" alt="open source  markdown badge"></a>
   </center>
+<br>
+
