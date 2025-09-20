@@ -100,5 +100,10 @@ My name is VitÃ³ria and I'm 16 years old. I study at the Federal Institute of SÃ
 
    <a href="https://github.com/vitoriaxavierp"><img src="https://private-user-images.githubusercontent.com/74038190/240903780-02d5a390-b263-43a4-981c-fbdc18c8b902.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAxMzQzMjgsIm5iZiI6MTc1MDEzNDAyOCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDM3ODAtMDJkNWEzOTAtYjI2My00M2E0LTk4MWMtZmJkYzE4YzhiOTAyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE3VDA0MjAyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVhZmY3YWIzZWFjMjExMDRkM2NhODY5MWY1MGQ1MjUyNWQ0NzYwYjEwMTBhNGM2YWMyMDNkZDE1OTM2NGI2ODgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.5v75qzM21qNxlZSoH5yaGQs8KVCYLhR1iR9ctBPkZgs" width="130" height="120" alt="open source  markdown badge"></a>
   </center>
-<br>
 
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitoriaxavierp/vitoriaxavierp/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitoriaxavierp/vitoriaxavierp/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitoriaxavierp/vitoriaxavierp/output/github-contribution-grid-snake.svg">
+</picture>
