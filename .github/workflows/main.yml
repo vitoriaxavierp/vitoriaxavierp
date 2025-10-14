@@ -30,7 +30,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             outputs: |
-              dist/github-contribution-grid-snake.svg?palette=github-light-pink
+              dist/github-contribution-grid-snake.svg?palette=/e8d7d3
               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
 
