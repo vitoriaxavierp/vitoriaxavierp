@@ -1,7 +1,7 @@
 ## Vitória Xavier 🌸
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8DA1&size=25&width=1000&lines=Hello!;Welcome+:%29)](https://git.io/typing-svg) 
 <br>
-My name is Vitória and I'm 16 years old. I study at the Federal Institute of São Paulo – São Paulo Campus, and I'm passionate about learning. I'm currently in my second year of the Systems Development program. In addition to programming, I also work on projects related to graphic design and social media.
+My name is Vitória and I'm 17 years old. I study at the Federal Institute of São Paulo – São Paulo Campus, and I'm passionate about learning. I'm currently in my third year of the Systems Development program. In addition to programming, I also work on projects related to graphic design and social media.
 
 
 
